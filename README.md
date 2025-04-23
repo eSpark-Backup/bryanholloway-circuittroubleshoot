@@ -2,7 +2,7 @@
 #### Client Name: Bryan Holloway
 
 ## Project Requirements
-The primary task is troubleshooting the existing circuit and share ideas for fixing. The complete details are shared below:
+The primary task is troubleshooting the existing circuit and share ideas for fixing. The complete details are shared below and schematic is pushed in docs folder:
 
 The client has a PCB design that uses an STM32 MCU. There is a separate PCB with two Opto electrical reflective sensors. The old design used BPR-301 sensor. In the new variant of the design, the sensor was replaced with OPB733TR that seemed identical. The client was able to get U1 to work on the new PCB, but U2 just does not seem to work.
 
